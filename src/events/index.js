@@ -23,7 +23,8 @@ const useStyles = makeStyles(() => ({
     backgroundImage: "initial"
   },
   header: {
-    height: '245px',
+//change
+    height: '240px',
     paddingTop: '73px',
     paddingLeft: '65px',
     boxSizing: 'border-box',
